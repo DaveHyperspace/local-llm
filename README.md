@@ -1,0 +1,1 @@
+download the models from https://github.com/nomic-ai/gpt4all into /models
